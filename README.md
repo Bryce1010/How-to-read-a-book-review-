@@ -13,7 +13,7 @@ We not only learn technology, but also learn how to live!
 
 如何阅读一本书，是我很早前就想阅读一本书，但是由于认识不太正确，觉得阅读这件事并需要别人来教，所以一直搁置未读。从“编程随想”的博客里面认识到了，学习阅读的重要性，于是重新下载好电子书，从头至尾认真学习了一遍，收货颇丰，所以做了一下关于这本书的架构分析和书评。其中添加了一些其他资料，包括如何阅读论文。
 
-建议前往[notion](https://editor.csdn.net/md?articleId=111170813#review_568)阅读这篇书评，感受更佳。
+建议前往[notion](https://www.notion.so/bryce1010/2333d3a3f88e4359b34a263b4efbdb64)阅读这篇书评，感受更佳。
 
 # 阅读的活力与艺术
 
